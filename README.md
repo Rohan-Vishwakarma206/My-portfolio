@@ -1,2 +1,3 @@
-# cv-11-02-23
-my cv
+This is my PORTFOLIO
+All my related work including Education, Hobbies, future works all included 
+
